@@ -1,14 +1,14 @@
 object_type: global_settings
 overrides:
-    "query.language.mdx.cellLimit.value": "30000000"
+    "query.language.mdx.cellLimit.value": "300000000"
     "query.timeout": "120 minutes"
     "query.cache.eviction.entryAge": "90 minutes"
-    "query.result.max_rows": "1000000"
+    "query.result.max_rows": "10000000"
     "query.language.dax.bypassIsBlank": "True"
     "query.factless.ignoreIncidentalFilter": "false"
     "query.includeComments.general.queryId": "true"
     "query.language.dax.blockDimModifiedMeasureFilters": "false"
-    "query.drillthrough.max_rows": "300000"
+    "query.drillthrough.max_rows": "3000000"
     "connection.pool.maxTimeout": "10 hours"
     "connection.pool.group.maxConnections": "200"
     "connection.pool.user.maxConnections": "50"
