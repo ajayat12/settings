@@ -22,3 +22,5 @@ overrides:
     "dataSample.timeout": "120 minutes"
     "aggregates.create.allowExactDistinctCountMeasures.enabled": "true"
     "aggregates.prediction.checkForNonAdditiveMeasuresAndConstraints.enabled": "false"
+    "bigquery.http.connectTimeout": "180 seconds"
+    "bigquery.http.readTimeout": "180 seconds"
