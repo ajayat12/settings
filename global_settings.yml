@@ -24,4 +24,3 @@ overrides:
     "aggregates.prediction.checkForNonAdditiveMeasuresAndConstraints.enabled": "false"
     "bigquery.http.connectTimeout": "180 seconds"
     "bigquery.http.readTimeout": "180 seconds"
-    "schema.userDefinedMember.defaultExcelPivotTableProperty": "true"
