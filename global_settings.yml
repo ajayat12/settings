@@ -1,4 +1,6 @@
 object_type: global_settings
 overrides:
     "xmla.auth.token.enabled": "true"
+    "auth.xmla.kerberos.keytab": "/tmp/krb/atscale.keytab"
+    "auth.xmla.kerberos.spn": "HTTP/ajayk8s.atscaleinternal.com@AD.EXAMPLE.COM"
   
