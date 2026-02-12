@@ -2,7 +2,7 @@ object_type: global_settings
 overrides:
     "xmla.auth.token.enabled": "true"
     "aggregate.create.joins.allowPreventIncremental.enabled": "false"
-    "thrift.enabled": false
+    "thrift.enabled": "true"
     "thrift.port": "11111"
     "thrift.server.limits.threads.count": "100"
     "thrift.server.limits.threads.enabled": "false"
