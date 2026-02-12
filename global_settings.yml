@@ -2,4 +2,18 @@ object_type: global_settings
 overrides:
     "xmla.auth.token.enabled": "true"
     "aggregate.create.joins.allowPreventIncremental.enabled": "false"
+    "thrift.enabled": false
+    "thrift.port": "11111"
+    "thrift.server.limits.threads.count": "100"
+    "thrift.server.limits.threads.enabled": "false"
+    "thrift.ssl.enabled": "true"
+    "thrifty.client.protocol": "cloudera"
+    "thrifty.hiveserver2.dbmsName.useHive": "false"
+    "thrifty.hiveserver2.operationStatus.interval": "100 milliseconds"
+    "thrifty.hiveserver2.session.max.age": "1 day"
+    "thrifty.protocol": "standard"
+    "thrifty.sasl.kerberos.enabled": "false"
+    "thrifty.sasl.plain.enabled": "true"
+    "thrifty.sasl.powerbi_supported_transport.enabled": "false"
+
   
