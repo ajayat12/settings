@@ -3,4 +3,5 @@ overrides:
     "xmla.auth.token.enabled": "true"
     "aggregate.create.joins.allowPreventIncremental.enabled": "false"
     "thrift.port": "11111"
+    "thrift.enabled": "true"
   
