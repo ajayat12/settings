@@ -1,5 +1,6 @@
 object_type: global_settings
 overrides:
     "xmla.auth.token.enabled": "true"
-    "aggregate.create.joins.allowPreventIncremental.enabled": "false"
+    "AGGREGATES.CREATE.PARTITION.USERDEFINEDAGGREGATE.ENABLED": "true"
+    "
   
