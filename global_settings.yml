@@ -2,3 +2,5 @@ object_type: global_settings
 overrides:
     xmla.auth.token.enabled: true
     feature.support-bundle.new-ui.enabled: true
+    sml.gsheet.filter.dim_values_warning_threshold: 10000
+
