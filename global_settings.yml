@@ -2,4 +2,4 @@ object_type: global_settings
 overrides:
     xmla.auth.token.enabled: true
     feature.support-bundle.new-ui.enabled: true
-    pgwire.embedded.metadata.db.user: testing
+    pgwire.enabled: false
