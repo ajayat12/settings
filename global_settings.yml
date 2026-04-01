@@ -3,3 +3,4 @@ overrides:
     xmla.auth.token.enabled: true
     feature.support-bundle.new-ui.enabled: true
     metadataExport.driver.type: postgres
+    aggregates.prediction.reports.storePredictorData: False
