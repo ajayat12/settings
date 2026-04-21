@@ -1,6 +1,4 @@
 object_type: global_settings
 overrides:
     xmla.auth.token.enabled: true
-    feature.support-bundle.new-ui.enabled: true
-    metadataExport.driver.type: postgres
-    aggregates.prediction.reports.storePredictorData: False
+    query.cache.eviction.entryAge: "0 minutes"
