@@ -2,4 +2,4 @@ object_type: global_settings
 overrides:
     xmla.auth.token.enabled: true
     query.cache.eviction.entryAge: "0 minutes"
-    auth.user.normalize.lowercase: true
+
