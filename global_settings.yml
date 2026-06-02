@@ -3,4 +3,7 @@ overrides:
     xmla.auth.token.enabled: true
     query.cache.eviction.entryAge: "0 minutes"
     auth.user.normalize.lowercase: true
+    tableau.pgwire.client.protocol: atscale_pgwire
+    tableau.connector.type: atscale_pgwire
+    tableau.pgwire.authentication: username_password
 
